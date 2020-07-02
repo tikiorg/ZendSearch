@@ -1,3 +1,5 @@
+This is deprecated after Tiki21: https://sourceforge.net/p/tikiwiki/code/76691/
+
 ZendSearch component
 
 You can install using:
